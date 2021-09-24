@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using CommandAPI.Data;
 
 namespace CommandAPI
 {
@@ -15,6 +16,7 @@ namespace CommandAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddScoped<ICommandAPIRepo,MockCommandAPIRepo>();
         }
 
         public void Configure(IApplicationBuilder app,IWebHostEnvironment env)
