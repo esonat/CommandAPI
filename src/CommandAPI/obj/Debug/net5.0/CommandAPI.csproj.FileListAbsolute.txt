@@ -21,3 +21,13 @@
 /home/sonat/Documents/DotnetWorkspace/CommandAPISolution/src/CommandAPI/obj/Debug/net5.0/ref/CommandAPI.dll
 /home/sonat/Documents/DotnetWorkspace/CommandAPISolution/src/CommandAPI/obj/Debug/net5.0/CommandAPI.pdb
 /home/sonat/Documents/DotnetWorkspace/CommandAPISolution/src/CommandAPI/obj/Debug/net5.0/CommandAPI.genruntimeconfig.cache
+/home/sonat/Documents/DotnetWorkspace/CommandAPISolution/src/CommandAPI/bin/Debug/net5.0/Humanizer.dll
+/home/sonat/Documents/DotnetWorkspace/CommandAPISolution/src/CommandAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/sonat/Documents/DotnetWorkspace/CommandAPISolution/src/CommandAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/sonat/Documents/DotnetWorkspace/CommandAPISolution/src/CommandAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/sonat/Documents/DotnetWorkspace/CommandAPISolution/src/CommandAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/sonat/Documents/DotnetWorkspace/CommandAPISolution/src/CommandAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/sonat/Documents/DotnetWorkspace/CommandAPISolution/src/CommandAPI/bin/Debug/net5.0/Npgsql.dll
+/home/sonat/Documents/DotnetWorkspace/CommandAPISolution/src/CommandAPI/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/sonat/Documents/DotnetWorkspace/CommandAPISolution/src/CommandAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/sonat/Documents/DotnetWorkspace/CommandAPISolution/src/CommandAPI/obj/Debug/net5.0/CommandAPI.csproj.CopyComplete
